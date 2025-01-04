@@ -15,3 +15,5 @@
 9. Numpy
 10. Pickle
 
+Disclaimer:
+The content displayed may include images and datasets used for educational or informational purposes only. We do not claim ownership of any shown material unless otherwise stated. Any copyrighted material is used under fair use guidelines. Views expressed are solely those of the creators and do not necessarily represent affiliated organizations or individuals.
